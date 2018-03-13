@@ -1,5 +1,5 @@
 body{
-	background:#333333 url(/assets/images/page-bg.jpg);
+	background:#333333 url(../assets/images/page-bg.jpg);
 	margin:0px;
 	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
 	color:#6a6969;
@@ -15,7 +15,7 @@ a img{border:0px;}
 #container{
 	width:950px;
 	margin:0px auto 300px auto;
-	background:url('assets/images/body-bg.png');
+	background:url('../assets/images/body-bg.png');
 	overflow:auto;
 	padding-bottom:10px;
 }
